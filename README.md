@@ -12,11 +12,11 @@ Install in python 3 environment:
 pip3 install securityheaders
 ```
 
-**Note: you might need root privileges or use `--user` switch**
+*Note: you might need root privileges or use `--user` switch*
 
 ## Usage
 
-```bash
+```
 Usage: securityheaders [OPTIONS] URL
 
   Get Security Headers from a given URL. The data is fetched from
@@ -31,4 +31,4 @@ Options:
 
 ## Thanks
 
-Thanks to **SecurityHeaders.io** for their awesome service!
+Thanks to **[SecurityHeaders.io](https://securityheaders.io)** for their awesome service!
